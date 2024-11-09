@@ -1,4 +1,10 @@
-# Jump Starting Bandits with LLM-Generated Prior Knowledge
+# Official Repo of "Jump Starting Bandits with LLM-Generated Prior Knowledge" appearing in [EMNLP2024 (Main Conference)](https://2024.emnlp.org/program/accepted_main_conference/)
+
+Authors: Parand A. Alamdari, Yanshuai Cao, Kevin H. Wilson
+
+Arxiv: [https://arxiv.org/abs/2406.19317](https://arxiv.org/abs/2406.19317)
+
+
 
 ## Pretrain phase:
 ![plot](./figs/pre_train.png)
